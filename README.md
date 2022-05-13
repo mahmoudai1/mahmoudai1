@@ -56,4 +56,4 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudai1&show_icons=true&locale=en&layout=compact" alt="mahmoudai1" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mahmoudai1&show_icons=true&locale=en" alt="mahmoudai1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudai1&show_icons=true&locale=en" alt="mahmoudai1" /></p>
