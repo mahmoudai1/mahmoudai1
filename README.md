@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **to be more advance in concepts, languages and frameworks.**
 
-- 💬 Ask me about **C#, C++, and PHP, and I will gladly help as much as I can.**
+- 💬 Ask me about **C#, C++, and PHP, I will gladly help as much as I can.**
 
 - 📩 How to reach me **mahmoud.ahmed48@msa.edu.eg**
 
