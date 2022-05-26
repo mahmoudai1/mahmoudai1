@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mahmoud</h1>
-<h3 align="center">A senior computer science student who is willing to learn more technologies and gain more skills. <br/>Currently focusing on my graduation project about Deep Learning. <br/>Worked as a full-stack developer freelancer at freelancer.com since year 2 at college.</h3><br/>
+<h3 align="center">A senior computer science student who is willing to learn more technologies and gain more skills. <br/>Currently focusing on my graduation project about Deep Learning. <br/>Working as a full-stack developer freelancer at freelancer.com.</h3><br/>
 
 - 🔭 I’m currently working on **my graduation project, which is based on Deep Learning.**
 
