@@ -3,15 +3,9 @@
 
 -  Holds a Bachelor's degree in **Computer Science**
 
--  Currently finishing **my graduation project**, which is based on **Deep Learning.**
-
--  Currently learning to be more advance in **technologies, languages, and frameworks.**
-
 -  How to reach me: **mahmoud.ahmed9@outlook.com**
 
 -  Know about my experiences: **[https://freelancer.com/u/devecode](https://freelancer.com/u/devecode)**
-
--  I like to read **programming and psychological books.**
 
 <br/>
 
