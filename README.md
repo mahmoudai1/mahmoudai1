@@ -5,7 +5,7 @@
 
 -  How to reach me: **mahmoud.ahmed9@outlook.com**
 
--  Know about my experiences: **[https://freelancer.com/u/devecode](https://freelancer.com/u/devecode)**
+-  Know about my freelancing experiences: **[https://freelancer.com/u/devecode](https://freelancer.com/u/devecode)**
 
 <br/>
 
