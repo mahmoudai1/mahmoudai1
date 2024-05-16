@@ -1,7 +1,7 @@
 <h1 align="center">Mahmoud Ahmed</h1>
-<h3 align="center">Software Engineer | Problem Solver</h3><br/>
+<h3 align="center">Full Stack Software Engineer | Problem Solver</h3><br/>
 
--  Holds a Bachelor's degree in **Computer Science**.
+-  Holds a Bachelor degree in **Computer Science**.
 
 -  My resume: [Mahmoud_Ahmed_Resume.pdf](https://github.com/mahmoudai1/mahmoudai1/files/15336284/Mahmoud_Ahmed_Resume.pdf)
 
