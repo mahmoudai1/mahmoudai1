@@ -3,7 +3,7 @@
 
 -  Holds a Bachelor degree in **Computer Science**.
 
--  My resume: [Mahmoud_Ahmed_Resume.pdf](https://github.com/mahmoudai1/mahmoudai1/files/15336284/Mahmoud_Ahmed_Resume.pdf)
+-  My resume: [Mahmoud_Ahmed_Resume.pdf](https://github.com/user-attachments/files/16232753/Mahmoud_Ahmed_Resume.pdf)
 
 -  How to reach me: **mahmoud.ahmed9@outlook.com**
 
