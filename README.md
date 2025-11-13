@@ -3,12 +3,7 @@
 
 -  Holds a Bachelor degree in **Computer Science**.
 
--  My resume: [Mahmoud_Ahmed_Resume.pdf](https://github.com/user-attachments/files/16700461/Mahmoud_Ahmed_Resume.pdf)
-
 -  How to reach me: **mahmoud.ahmed9@outlook.com**
-
--  Know about my freelancing experiences: **[https://freelancer.com/u/devecode](https://freelancer.com/u/devecode)**
-
 <br/>
 
 <h2 align="center">Connect with me:</h2>
